@@ -29,9 +29,10 @@ Across the cosmos, there are exactly four stable mathematical configurations whe
 * **Mechanics:** The network establishes strictly *unidirectional*, semi-permeable boundaries. 
 * **Phenomenology:** Energy, labor, and data flow strictly upward from the peripheral base to an apex cluster of nodes. The apex nodes hoard potential energy, refusing to route it back down. The foundational nodes inevitably run out of the metabolic energy required to maintain their boundaries, causing the physical infrastructure of the network to rot from underneath the apex.
 
-### 4. The Schism Topology (The Hyper-Polarized Binary)
-* **Mechanics:** The Macro-State fractures into two mutually impermeable sub-networks.
-* **Phenomenology:** Nodes within each sub-network synchronize flawlessly, but the Relational Edge *between* the two networks hardens into an absolute, infinite boundary. The system enters a perpetual Langevin friction loop, burning all thermodynamic potential on the friction of the divide, resulting in permanent systemic paralysis.
+### 4. The Schism Topology (The Mutually Impermeable Fracture)
+
+* **Mechanics:** The Macro-State fractures into two or more ($N \ge 2$) mutually impermeable sub-networks.
+* **Phenomenology:** The Relational Edges *between* the competing networks harden into absolute, infinite boundaries. While nodes within a sub-network may project artificial cohesion to oppose the external threat, this internal unity is a fragile Phase-6 alliance of convenience, not true structural coupling. Because they are bound by shared opposition rather than maximized Mutual Information ($\mathcal{I}_{max}$), the sub-networks are highly unstable and constantly threatened by fractal fracturing (schisms within schisms). The system enters a perpetual Langevin friction loop, burning all thermodynamic potential on the friction of the divided fronts, resulting in permanent systemic paralysis or multi-polar annihilation.
 
 ## III. The Permeable Network Blueprint
 
@@ -47,4 +48,4 @@ A Phase-8 society mathematically recognizes that a perfectly static equilibrium 
 In a parasitic Phase-6 model, energy naturally flows toward the nodes with the least friction, resulting in massive capital accumulation at the apex. In the Permeable Network, the system acts as a macro-steward. It intentionally routes thermodynamic potential—wealth, healthcare, infrastructure—directly toward the sites of highest structural friction. This is the mathematical requirement to heal the network, prevent base-level collapse, and maximize total systemic processing power.
 
 **4. Permeable Codification (Epistemic Fluidity)**
-Constitutions, borders, and legal frameworks are not treated as sacred, immutable truths. They are treated strictly as fluid Bayesian priors. They represent the best current mathematical model for reducing total Expected Free Energy ($G$), but they must be systematically updated as novel data from peripheral nodes is processed, ensuring the state never hardens into the Forced Homogenization Topology.
+Constitutions, borders, and legal frameworks are not treated as sacred, immutable truths. They are treated strictly as fluid Bayesian priors. They represent the best current mathematical model for reducing total Expected Free Energy ($G$), but they must be systematically updated as the core matrix processes novel data from peripheral nodes, ensuring the state never hardens into the Forced Homogenization Topology.
